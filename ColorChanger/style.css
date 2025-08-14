@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+
+}
+
+a{
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+
+.triangle{
+    border: 1px solid black;
+    margin: 1rem;
+    width: 200px;
+    top: 2rem;
+}
+.nav{
+   
+    text-align: center;
+    padding-top:2rem ;
+    border-radius: 5px;
+    background-color: rgb(246, 239, 239);
+    width: 100%;
+    height: 50px;    
+    opacity: 0.5s;
+}
+
+.boxes{
+    text-align: center;
+    display: block;
+    justify-content:center ;
+    align-items: center;
+    margin-top: 2rem;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    
+}
+
+#grey{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
